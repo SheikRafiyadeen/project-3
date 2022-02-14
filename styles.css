@@ -6,9 +6,9 @@ body {
 
 .eyes {
   position: absolute;
-  top: 28%;
+  top: 26%;
   transform: translateY(-30%);
-  width: 98%;
+  width: 97%;
   left: 15%;
   text-align: center;
 }
